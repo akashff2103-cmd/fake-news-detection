@@ -28,7 +28,7 @@ def preprocess(text):
 # Streamlit UI
 st.set_page_config(page_title="Fake News Detector", layout="centered")
 
-st.title("📰 Fake News Detection App")
+st.title("Fake News Detection App")
 st.markdown("### Enter a News Article (Title + Content):")
 
 # Input box
