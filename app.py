@@ -50,4 +50,4 @@ if st.button("Check News"):
 
 # Footer
 st.markdown("---")
-st.markdown("Created by Dhaval Kanpariya · Powered by Streamlit and ML 🎯")
+st.markdown("Created by Akash Kumar Mahto & Harsh Vikram Singh")
